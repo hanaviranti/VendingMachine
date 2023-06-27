@@ -1,0 +1,14 @@
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.SuggestedBindingRedirects.cache
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Form1.resources
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\bin\Debug\Dapper.dll
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\bin\Debug\Dapper.xml
+D:\_FAHMI\DATA\HANA\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CopyComplete
